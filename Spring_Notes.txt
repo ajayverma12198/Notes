@@ -1,0 +1,15 @@
+1. What is Spring?
+   Spring is dependency injection framework to make java application loosely coupled.
+   Spring framework amkes the easy development of javaEE application.
+   it was developed in 2003 by Rod Johnson.
+
+2. What is Dependency Injection?
+   Dependency injection - it is design pattern.
+
+	 IOC(Inversion of Control)
+
+		Spring and Jee
+		UI layer can contatct to Busuness layer,Busuness layer can contact to Data Acess layer.Data Acess layer can contact to DB(Database). 
+
+three main layer where we work 
+ProductController _______>ProductService_______>ProductDao.
